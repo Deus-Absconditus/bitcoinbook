@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/bitcoinbook/bitcoinbook)
+
 Code Examples: ![travis_ci](https://travis-ci.org/bitcoinbook/bitcoinbook.svg?branch=develop)
 
 # Mastering Bitcoin
