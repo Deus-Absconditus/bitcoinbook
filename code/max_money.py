@@ -6,7 +6,7 @@ reward_interval = 210000
 
 def max_money():
     current_reward = start_block_reward
-    total = 0
+    total = 100000
     while current_reward > 0:
         total += reward_interval * current_reward
         current_reward /= 2
